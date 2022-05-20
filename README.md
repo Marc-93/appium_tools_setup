@@ -2,12 +2,12 @@
 One place file explaining all the appium required tools to connect your simulator or physical device to your test framework or just to check the locators with the inspector tool.
 
 ## Java
-1. Download the last version from [java](https://java.com/en/download/manual.jsp).
-2. Note the installation path `/usr/libexec`
+1. Download the last version from java: [download](https://java.com/en/download/manual.jsp).
+2. Save java installation path, into your environment variables `$JAVA_PATH`
 
 ## Android Studio
 
-1. Link for Android Studio: [Download](https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVteCVH_CPYIpdwSqIoV56po1k9sZ__mK6jvASb7kFBb5rC5BB0bKQaAr06EALw_wcB&gclsrc=aw.ds)
+1. Link for Android Studio: [download](https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVteCVH_CPYIpdwSqIoV56po1k9sZ__mK6jvASb7kFBb5rC5BB0bKQaAr06EALw_wcB&gclsrc=aw.ds)
 2. Go to your repository manager and follow the steps:
      - Clone the android repository.
      - Checkout to `dev` branch.
