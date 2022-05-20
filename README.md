@@ -8,10 +8,12 @@ One place file explaining all the appium required tools to connect your simulato
 ## Android Studio
 
 1. Download Android Studio: [download](https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVteCVH_CPYIpdwSqIoV56po1k9sZ__mK6jvASb7kFBb5rC5BB0bKQaAr06EALw_wcB&gclsrc=aw.ds)
-2. Go to your repository manager and follow the steps:
-     - Clone the android repository.
-     - Checkout to `dev` branch.
-3. Note the Android Studio sdk path `/users/{user}/Library/Android/sdk`
+2. Clone an Android project or create a new one.
+3. Go to Android Studio menu and open `tools/sdk manager`
+4. Find the Android Studio sdk path `/users/{user}/Library/Android/sdk`.
+
+## Environment variables
+
 
 ## Create Android emulator
 
