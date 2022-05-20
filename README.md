@@ -7,7 +7,7 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## Android Studio
 
-1. Link for Android Studio: [download](https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVteCVH_CPYIpdwSqIoV56po1k9sZ__mK6jvASb7kFBb5rC5BB0bKQaAr06EALw_wcB&gclsrc=aw.ds)
+1. Download Android Studio: [download](https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVteCVH_CPYIpdwSqIoV56po1k9sZ__mK6jvASb7kFBb5rC5BB0bKQaAr06EALw_wcB&gclsrc=aw.ds)
 2. Go to your repository manager and follow the steps:
      - Clone the android repository.
      - Checkout to `dev` branch.
@@ -25,7 +25,7 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## ADB
 
-1. Download the package from link: [download](https://developer.android.com/studio/releases/platform-tools)
+1. Download the platform tools package: [download](https://developer.android.com/studio/releases/platform-tools)
 2. Unzip the file in your desktop.
 3. Open a terminal directly on desktop location.
 4. Execute the follwoing command: `$ sudo mv platform-tools /etc`
