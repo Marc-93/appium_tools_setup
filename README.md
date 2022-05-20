@@ -48,8 +48,8 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## ADB
 
-10. To get the device id: `adb devices`
-11. To get the main activity, execute the command: `adb shell dumpsys window | grep -E 'mCurrentFocus'`
+1. To get the device id: `adb devices`
+2. To get the main activity, execute the command: `adb shell dumpsys window | grep -E 'mCurrentFocus'`
 
 ## Xcode
 
