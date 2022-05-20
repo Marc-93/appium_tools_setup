@@ -53,7 +53,7 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## Xcode
 
-1. Download xcode from AppStore
+Download xcode from AppStore
 
 ## UICatalog
 
