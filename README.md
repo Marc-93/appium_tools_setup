@@ -44,7 +44,7 @@ One place file explaining all the appium required tools to connect your simulato
 4. Select the device, go to next screen.
 5. Install last API version, go to next screen.
 6. Show advanced options, change the graphics to hardware option and click finish.
-7. Now you have the virtual device available.
+7. Run the simulator.
 
 ## ADB
 
