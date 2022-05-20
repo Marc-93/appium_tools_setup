@@ -3,7 +3,7 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## Java
 1. Download the last version from java: [download](https://java.com/en/download/manual.jsp).
-2. Save java installation path, into your environment variables `$JAVA_PATH`
+2. Save java installation path: `$JAVA_PATH`
 
 ## Android Studio
 
