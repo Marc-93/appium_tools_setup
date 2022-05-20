@@ -53,7 +53,8 @@ One place file explaining all the appium required tools to connect your simulato
 
 ## Xcode
 
-Download xcode from AppStore
+1. Download xcode from AppStore
+2. If you have a M1, then open the Xcode using roseta (right click/get info/check open roseta).
 
 ## UICatalog
 
