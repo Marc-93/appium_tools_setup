@@ -20,7 +20,7 @@ One place file explaining all the appium required tools to connect your simulato
 2. Add ANDROID_HOME
 3. Add JAVA_HOME
 
-![image](/img/windows_all_paths.png/windows_android_home.png)
+![image](/img/windows_android_home.png)
 ![image](/img/windows_java_home.png)
 ![image](/img/windows_all_paths.png)
 
