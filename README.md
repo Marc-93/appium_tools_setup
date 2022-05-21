@@ -111,8 +111,8 @@ Install node using terminal: `$ brew install node.js`
 `
 5. Start appium inspector session.
 
-![image](/img/appium_inspector_capabilities.png)
-![image](/img/appium_inspector_start.png)
+![image](/img/appium_inspector_capabilities_android.png)
+![image](/img/appium_inspector_sim_android.png)
 
 ## Connect iOS
 
@@ -133,3 +133,6 @@ Install node using terminal: `$ brew install node.js`
 }
 `
 5. Start appium inspector session.
+
+![image](/img/appium_inspector_capabilities_ios.png)
+![image](/img/appium_inspector_sim_ios.png)
