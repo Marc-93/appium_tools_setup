@@ -13,7 +13,7 @@ One place file explaining all the appium required tools to connect your simulato
 4. Find the Android Studio sdk path.
 
 ![image](/img/android_menu.png)
-![image](/img/android_sdk.png)
+![image](/img/android_sdk_path.png)
 
 ## Environment variables
 
@@ -85,7 +85,7 @@ Install node using terminal: `$ brew install node.js`
      - Click to allow appium.
 
 
-![image](/img/appium_conf.png)
+![image](/img/appium_edit_conf.png)
 ![image](/img/appium_start.png)
 
 ## Connect Android
