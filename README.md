@@ -12,6 +12,9 @@ One place file explaining all the appium required tools to connect your simulato
 3. Go to Android Studio menu and open `tools/sdk manager`
 4. Find the Android Studio sdk path.
 
+![image](/img/android_menu.png)
+![image](/img/android_sdk.png)
+
 ## Environment variables
 
 ### Windows
