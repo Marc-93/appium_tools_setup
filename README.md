@@ -83,19 +83,21 @@ Install node using terminal: `$ brew install node.js`
 6. Try to open Appium apps
      - If there are some issues, go to 'preferences/security/general'
      - Click to allow appium.
-
+7. Click on "Edit configurations"
+     - Set the ANDROID_HOME path: `your_android_home_sdk_path`
+     - Set the JAVA_HOME path: `your_java_path`
+     - Restart appium
 
 ![image](/img/appium_edit_conf.png)
 ![image](/img/appium_start.png)
 
 ## Connect Android
 
-1. Click on "Edit configurations"
-     - Set the ANDROID_HOME path: `your_android_home_sdk_path`
-     - Set the JAVA_HOME path: `your_java_path`
-     - Restart appium
-2. Start the Appium server
-3. Open the Appium inspector:
+1. Open Android Studio.
+2. Build your app and wait until simulator is opened.
+3. Open appium and click on start server.
+4. Start the Appium server
+5. Open the Appium inspector:
      - Set host: `127.0.0.1`
      - Set remote port: `4723`
      - Set remote path: `/wd/hub/`
@@ -108,15 +110,17 @@ Install node using terminal: `$ brew install node.js`
   "appActivity": your_app_activity"
 }
 `
-4. Start appium inspector session.
+6. Start appium inspector session.
 
 ![image](/img/appium_inspector_capabilities.png)
 ![image](/img/appium_inspector_start.png)
 
 ## Connect iOS
 
-1. Click on start server.
-2. Open the Appium inspector:
+1. Open Xcode.
+2. Build your app and wait until simulator is started.
+3. Open appium and click on start server.
+4. Open the Appium inspector:
      - Set host: `127.0.0.1`
      - Set remote port: `4723`
      - Set remote path: `/wd/hub/`
@@ -129,4 +133,4 @@ Install node using terminal: `$ brew install node.js`
 "app": app_path
 }
 `
-3. Start appium inspector session.
+5. Start appium inspector session.
