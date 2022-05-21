@@ -22,7 +22,7 @@ One place file explaining all the appium required tools to connect your simulato
 
 ![image](/img/windows_android_home.png)
 ![image](/img/windows_java_home.png)
-![image](/img/env_paths.png)
+![image](/img/windows_all_env.png)
 
 ### macOS
 
