@@ -84,6 +84,10 @@ Install node using terminal: `$ brew install node.js`
      - If there are some issues, go to 'preferences/security/general'
      - Click to allow appium.
 
+
+![image](/img/appium_conf.png)
+![image](/img/appium_start.png)
+
 ## Connect Android
 
 1. Click on "Edit configurations"
