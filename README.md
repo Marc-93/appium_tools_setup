@@ -96,8 +96,7 @@ Install node using terminal: `$ brew install node.js`
 1. Open Android Studio.
 2. Build your app and wait until simulator is opened.
 3. Open appium and click on start server.
-4. Start the Appium server
-5. Open the Appium inspector:
+4. Open the Appium inspector:
      - Set host: `127.0.0.1`
      - Set remote port: `4723`
      - Set remote path: `/wd/hub/`
@@ -110,7 +109,7 @@ Install node using terminal: `$ brew install node.js`
   "appActivity": your_app_activity"
 }
 `
-6. Start appium inspector session.
+5. Start appium inspector session.
 
 ![image](/img/appium_inspector_capabilities.png)
 ![image](/img/appium_inspector_start.png)
